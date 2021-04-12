@@ -6,4 +6,4 @@ header_menu: false
 
 ![solution](images/logo.png)
 
-Cube Italia s.r.l. è una startup innovativa che opera nel settore AgriTech.
+Cbe Italia s.r.l. è una startup innovativa cha opera nel settore AgriTech.

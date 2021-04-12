@@ -1,5 +1,0 @@
-
-[build]
-  command = "hugp"
-  publish = "public"
-
