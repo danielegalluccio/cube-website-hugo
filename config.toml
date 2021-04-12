@@ -3,7 +3,7 @@ baseURL = "https://cube-italia.netlify.app"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "it"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
@@ -39,3 +39,16 @@ title = "Cube Italia"
 
     [params.meta]
         keywords = "vertical, farm, cube, Italia, aeroponica, serra, aeroponics"
+
+
+[server]
+
+  [[server.headers]]
+    for = "/**.html"
+    [server.headers.values]
+      Content-Security-Policy = "script-src localhost:1313"
+      Referrer-Policy = "strict-origin-when-cross-origin"
+      X-Content-Type-Options = "nosniff"
+      X-Frame-Options = "DENY"
+      X-XSS-Protection = "1; mode=block"
+      Access-Control-Allow-Origin = "https://cube-italia.netlify.app"
