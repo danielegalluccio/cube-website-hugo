@@ -9,4 +9,5 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
 -->
-Let us get in touch!
+
+{{<icon class="fa fa-envelope">}}&nbsp;[info@cube-italia.com](mailto:info@cube-italia.com)
