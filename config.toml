@@ -47,5 +47,5 @@ title = "Cube Italia"
     for = "/**.html"
     [server.headers.values]
         Access-Control-Allow-Origin = "*"
-        Content-Security-Policy = "script-src localhost:1313 cube-italia.com netlify.app"
+        Content-Security-Policy = "script-src localhost:1313 cube-italia.com netlify.app code.jquery.com"
 
