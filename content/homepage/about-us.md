@@ -5,7 +5,10 @@ header_menu: true
 ---
 
 
-![team](images/team-full.png)
+| Domenico Auriemma | Daniele Galluccio |
+|:-:|:-:|
+| Founder / CEO | CTO |
+| Imprenditore con venticinque anni di esperienza nel campo dell’Information Technology. | Oltre vent’anni di esperienza nel settore dell’Information Technology;  ex CTO e Chief of Software Engineering per società SaaS e Consulting. |
 
 Il nostro partner nel marketing delle soluzioni offerte e' Ibra-Consulting
 
