@@ -23,3 +23,4 @@ L’obiettivo e’ di coltivare prodotti con un basso impatto ambientale, manten
 - maggior controllo
 - minori costi di realizzazione rispetto a soluzioni simili
 - minori costi di gestione rispetto a soluzioni simili
+
