@@ -414,12 +414,11 @@ table tbody > tr:nth-child(odd) > td,
   background-color: #f6f6f6;
 } */
 
-table.plain {
-  tbody > tr:nth-child(odd) > td,
-  tbody > tr:nth-child(odd) > th {
+/* table.plain {
+  tbody > tr:nth-child(odd) > td, tbody > tr:nth-child(odd) > th {
     background: transparent;
   }
-}
+} */
 
 li {
   margin-left: 30px;
