@@ -14,4 +14,4 @@ header_menu: true
 
 Il nostro partner nel marketing delle soluzioni offerte e' Ibra-Consulting
 
-{{< figure src="images/ibra-logo.png"  width="140" link="https://www.ibraconsulting.it/">}}
+{{< figure src="images/ibra-logo-w.png"  width="140" link="https://www.ibraconsulting.it/">}}
